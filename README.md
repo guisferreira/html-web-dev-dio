@@ -1,2 +1,2 @@
 # html-web-dev-dio
- Exercicios do cursod e HTML da DIO
+ Exercicios do curso de HTML da DIO
